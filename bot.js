@@ -13,4 +13,4 @@ client.on('message', message => {
             message.reply('Squawk');
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NjU1NDM3ODgyMzI0MDI1MzU1.XfVR6A.uzhJDa_3QStdoQiXV0UfijKY6XQ);
